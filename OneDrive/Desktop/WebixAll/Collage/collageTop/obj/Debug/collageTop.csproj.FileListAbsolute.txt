@@ -1,0 +1,12 @@
+C:\Users\yisro\OneDrive\Desktop\Collage\collageTop\bin\Debug\collageTop.exe.config
+C:\Users\yisro\OneDrive\Desktop\Collage\collageTop\bin\Debug\collageTop.exe
+C:\Users\yisro\OneDrive\Desktop\Collage\collageTop\bin\Debug\collageTop.pdb
+C:\Users\yisro\OneDrive\Desktop\Collage\collageTop\obj\Debug\collageTop.csproj.AssemblyReference.cache
+C:\Users\yisro\OneDrive\Desktop\Collage\collageTop\obj\Debug\collageTop.Form1.resources
+C:\Users\yisro\OneDrive\Desktop\Collage\collageTop\obj\Debug\collageTop.Properties.Resources.resources
+C:\Users\yisro\OneDrive\Desktop\Collage\collageTop\obj\Debug\collageTop.csproj.GenerateResource.cache
+C:\Users\yisro\OneDrive\Desktop\Collage\collageTop\obj\Debug\collageTop.csproj.CoreCompileInputs.cache
+C:\Users\yisro\OneDrive\Desktop\Collage\collageTop\obj\Debug\collageTop.exe
+C:\Users\yisro\OneDrive\Desktop\Collage\collageTop\obj\Debug\collageTop.pdb
+C:\Users\yisro\OneDrive\Desktop\Collage\collageTop\obj\Debug\collageTop.student1.resources
+C:\Users\yisro\OneDrive\Desktop\Collage\collageTop\obj\Debug\collageTop.CollageTopWeb.resources

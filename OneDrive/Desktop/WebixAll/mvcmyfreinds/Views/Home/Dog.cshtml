@@ -1,0 +1,16 @@
+﻿@model mvcmyfreinds.Models.Dog
+@{
+    ViewData["Title"] = "Dog";
+}
+
+<div class="text-center">
+    <h1 @ViewData["Title"]</h1>
+    <label>
+        <span>tag</span> <span> @Model.Tag</span>
+    </label>
+    <label>
+        <span>name</span> <span> @Model.Name</span>
+    </label>
+    <label>
+        <span>age</span> <span> @Model.Age</span>
+    </label>

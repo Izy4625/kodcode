@@ -1,0 +1,10 @@
+C:\Users\yisro\OneDrive\Desktop\WebixAll\xmlpractice\bin\Debug\xmlpractice.exe.config
+C:\Users\yisro\OneDrive\Desktop\WebixAll\xmlpractice\bin\Debug\xmlpractice.exe
+C:\Users\yisro\OneDrive\Desktop\WebixAll\xmlpractice\bin\Debug\xmlpractice.pdb
+C:\Users\yisro\OneDrive\Desktop\WebixAll\xmlpractice\obj\Debug\xmlpractice.csproj.AssemblyReference.cache
+C:\Users\yisro\OneDrive\Desktop\WebixAll\xmlpractice\obj\Debug\xmlpractice.Form1.resources
+C:\Users\yisro\OneDrive\Desktop\WebixAll\xmlpractice\obj\Debug\xmlpractice.Properties.Resources.resources
+C:\Users\yisro\OneDrive\Desktop\WebixAll\xmlpractice\obj\Debug\xmlpractice.csproj.GenerateResource.cache
+C:\Users\yisro\OneDrive\Desktop\WebixAll\xmlpractice\obj\Debug\xmlpractice.csproj.CoreCompileInputs.cache
+C:\Users\yisro\OneDrive\Desktop\WebixAll\xmlpractice\obj\Debug\xmlpractice.exe
+C:\Users\yisro\OneDrive\Desktop\WebixAll\xmlpractice\obj\Debug\xmlpractice.pdb

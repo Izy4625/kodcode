@@ -1,0 +1,66 @@
+<Queries>
+  <Query>
+    <Day>Sunday</Day>
+    <DayMonth>2</DayMonth>
+    <Month>February</Month>
+    <Year>2024</Year>
+    <Result>First day of the week Second day of the month February Year not covered in the switch case.</Result>
+  </Query>
+  <Query>
+    <Day>Wednesday</Day>
+    <DayMonth>19</DayMonth>
+    <Month>September</Month>
+    <Year>2026</Year>
+    <Result>Fourth day of the week Nineteenth day of the month September Year not covered in the switch case.</Result>
+  </Query>
+  <Query>
+    <Day>
+    </Day>
+    <DayMonth>13</DayMonth>
+    <Month>August</Month>
+    <Year>2025</Year>
+    <Result>Thirteenth day of the month August Year not covered in the switch case.</Result>
+  </Query>
+  <Query>
+    <Day>Monday</Day>
+    <DayMonth>7</DayMonth>
+    <Month>February</Month>
+    <Year>5786</Year>
+    <Result> Second day of the week Seventh day of the month February And five thousand seven hundred eighty-six years from the Creation of the world</Result>
+  </Query>
+  <Query>
+    <Day>Monday</Day>
+    <DayMonth>7</DayMonth>
+    <Month>February</Month>
+    <Year>5786</Year>
+    <Result> Second day of the week Seventh day of the month February And five thousand seven hundred eighty-six years from the Creation of the world</Result>
+  </Query>
+  <Query>
+    <Day>Monday</Day>
+    <DayMonth>7</DayMonth>
+    <Month>February</Month>
+    <Year>5786</Year>
+    <Result> Second day of the week Seventh day of the month February And five thousand seven hundred eighty-six years from the Creation of the world</Result>
+  </Query>
+  <Query>
+    <Day>Monday</Day>
+    <DayMonth>7</DayMonth>
+    <Month>February</Month>
+    <Year>5786</Year>
+    <Result> Second day of the week Seventh day of the month February And five thousand seven hundred eighty-six years from the Creation of the world</Result>
+  </Query>
+  <Query>
+    <Day>Monday</Day>
+    <DayMonth>7</DayMonth>
+    <Month>February</Month>
+    <Year>5786</Year>
+    <Result> Second day of the week Seventh day of the month February And five thousand seven hundred eighty-six years from the Creation of the world</Result>
+  </Query>
+  <Query>
+    <Day>Monday</Day>
+    <DayMonth>7</DayMonth>
+    <Month>February</Month>
+    <Year>5786</Year>
+    <Result> Second day of the week Seventh day of the month February And five thousand seven hundred eighty-six years from the Creation of the world</Result>
+  </Query>
+</Queries>

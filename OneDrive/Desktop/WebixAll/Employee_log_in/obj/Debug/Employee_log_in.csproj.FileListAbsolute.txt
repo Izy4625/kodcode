@@ -1,0 +1,13 @@
+C:\Users\yisro\OneDrive\Desktop\Employee_sign_in\Employee_log_in\Employee_log_in\bin\Debug\Employee_log_in.exe.config
+C:\Users\yisro\OneDrive\Desktop\Employee_sign_in\Employee_log_in\Employee_log_in\bin\Debug\Employee_log_in.exe
+C:\Users\yisro\OneDrive\Desktop\Employee_sign_in\Employee_log_in\Employee_log_in\bin\Debug\Employee_log_in.pdb
+C:\Users\yisro\OneDrive\Desktop\Employee_sign_in\Employee_log_in\Employee_log_in\obj\Debug\Employee_log_in.csproj.AssemblyReference.cache
+C:\Users\yisro\OneDrive\Desktop\Employee_sign_in\Employee_log_in\Employee_log_in\obj\Debug\Employee_log_in.Form1.resources
+C:\Users\yisro\OneDrive\Desktop\Employee_sign_in\Employee_log_in\Employee_log_in\obj\Debug\Employee_log_in.Properties.Resources.resources
+C:\Users\yisro\OneDrive\Desktop\Employee_sign_in\Employee_log_in\Employee_log_in\obj\Debug\Employee_log_in.csproj.GenerateResource.cache
+C:\Users\yisro\OneDrive\Desktop\Employee_sign_in\Employee_log_in\Employee_log_in\obj\Debug\Employee_log_in.csproj.CoreCompileInputs.cache
+C:\Users\yisro\OneDrive\Desktop\Employee_sign_in\Employee_log_in\Employee_log_in\obj\Debug\Employee_log_in.exe
+C:\Users\yisro\OneDrive\Desktop\Employee_sign_in\Employee_log_in\Employee_log_in\obj\Debug\Employee_log_in.pdb
+C:\Users\yisro\OneDrive\Desktop\Employee_sign_in\Employee_log_in\Employee_log_in\obj\Debug\Employee_log_in.ChangePassword.resources
+C:\Users\yisro\OneDrive\Desktop\Employee_sign_in\Employee_log_in\Employee_log_in\obj\Debug\Employee_log_in.ListOfhours.resources
+C:\Users\yisro\OneDrive\Desktop\Employee_sign_in\Employee_log_in\Employee_log_in\obj\Debug\Employee_log_in.Formlearning.resources

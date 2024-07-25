@@ -1,0 +1,10 @@
+C:\Users\yisro\OneDrive\Desktop\WebixAll\preTestXml\bin\Debug\preTestXml.exe.config
+C:\Users\yisro\OneDrive\Desktop\WebixAll\preTestXml\bin\Debug\preTestXml.exe
+C:\Users\yisro\OneDrive\Desktop\WebixAll\preTestXml\bin\Debug\preTestXml.pdb
+C:\Users\yisro\OneDrive\Desktop\WebixAll\preTestXml\obj\Debug\preTestXml.csproj.AssemblyReference.cache
+C:\Users\yisro\OneDrive\Desktop\WebixAll\preTestXml\obj\Debug\preTestXml.Form1.resources
+C:\Users\yisro\OneDrive\Desktop\WebixAll\preTestXml\obj\Debug\preTestXml.Properties.Resources.resources
+C:\Users\yisro\OneDrive\Desktop\WebixAll\preTestXml\obj\Debug\preTestXml.csproj.GenerateResource.cache
+C:\Users\yisro\OneDrive\Desktop\WebixAll\preTestXml\obj\Debug\preTestXml.csproj.CoreCompileInputs.cache
+C:\Users\yisro\OneDrive\Desktop\WebixAll\preTestXml\obj\Debug\preTestXml.exe
+C:\Users\yisro\OneDrive\Desktop\WebixAll\preTestXml\obj\Debug\preTestXml.pdb

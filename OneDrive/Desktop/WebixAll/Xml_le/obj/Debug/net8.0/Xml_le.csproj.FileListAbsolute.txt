@@ -1,0 +1,15 @@
+C:\Users\yisro\OneDrive\Desktop\WebixAll\Xml_le\bin\Debug\net8.0\Xml_le.exe
+C:\Users\yisro\OneDrive\Desktop\WebixAll\Xml_le\bin\Debug\net8.0\Xml_le.deps.json
+C:\Users\yisro\OneDrive\Desktop\WebixAll\Xml_le\bin\Debug\net8.0\Xml_le.runtimeconfig.json
+C:\Users\yisro\OneDrive\Desktop\WebixAll\Xml_le\bin\Debug\net8.0\Xml_le.dll
+C:\Users\yisro\OneDrive\Desktop\WebixAll\Xml_le\bin\Debug\net8.0\Xml_le.pdb
+C:\Users\yisro\OneDrive\Desktop\WebixAll\Xml_le\obj\Debug\net8.0\Xml_le.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yisro\OneDrive\Desktop\WebixAll\Xml_le\obj\Debug\net8.0\Xml_le.AssemblyInfoInputs.cache
+C:\Users\yisro\OneDrive\Desktop\WebixAll\Xml_le\obj\Debug\net8.0\Xml_le.AssemblyInfo.cs
+C:\Users\yisro\OneDrive\Desktop\WebixAll\Xml_le\obj\Debug\net8.0\Xml_le.csproj.CoreCompileInputs.cache
+C:\Users\yisro\OneDrive\Desktop\WebixAll\Xml_le\obj\Debug\net8.0\Xml_le.dll
+C:\Users\yisro\OneDrive\Desktop\WebixAll\Xml_le\obj\Debug\net8.0\refint\Xml_le.dll
+C:\Users\yisro\OneDrive\Desktop\WebixAll\Xml_le\obj\Debug\net8.0\Xml_le.pdb
+C:\Users\yisro\OneDrive\Desktop\WebixAll\Xml_le\obj\Debug\net8.0\Xml_le.genruntimeconfig.cache
+C:\Users\yisro\OneDrive\Desktop\WebixAll\Xml_le\obj\Debug\net8.0\ref\Xml_le.dll
+C:\Users\yisro\OneDrive\Desktop\WebixAll\Xml_le\bin\Debug\net8.0\Employees.xml

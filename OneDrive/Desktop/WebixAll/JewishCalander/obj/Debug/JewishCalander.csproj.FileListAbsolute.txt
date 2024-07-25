@@ -1,0 +1,10 @@
+C:\Users\yisro\OneDrive\Desktop\WebixAll\JewishCalander\bin\Debug\JewishCalander.exe.config
+C:\Users\yisro\OneDrive\Desktop\WebixAll\JewishCalander\bin\Debug\JewishCalander.exe
+C:\Users\yisro\OneDrive\Desktop\WebixAll\JewishCalander\bin\Debug\JewishCalander.pdb
+C:\Users\yisro\OneDrive\Desktop\WebixAll\JewishCalander\obj\Debug\JewishCalander.csproj.AssemblyReference.cache
+C:\Users\yisro\OneDrive\Desktop\WebixAll\JewishCalander\obj\Debug\JewishCalander.Form1.resources
+C:\Users\yisro\OneDrive\Desktop\WebixAll\JewishCalander\obj\Debug\JewishCalander.Properties.Resources.resources
+C:\Users\yisro\OneDrive\Desktop\WebixAll\JewishCalander\obj\Debug\JewishCalander.csproj.GenerateResource.cache
+C:\Users\yisro\OneDrive\Desktop\WebixAll\JewishCalander\obj\Debug\JewishCalander.csproj.CoreCompileInputs.cache
+C:\Users\yisro\OneDrive\Desktop\WebixAll\JewishCalander\obj\Debug\JewishCalander.exe
+C:\Users\yisro\OneDrive\Desktop\WebixAll\JewishCalander\obj\Debug\JewishCalander.pdb
